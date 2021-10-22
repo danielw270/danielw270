@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielw270, welcome to my profile page
-- 👀 I’m interested in ... Building applications
+- 👀 I’m interested in ... Building desktop applications
 - 🌱 I’m currently learning ... Java development
 - 📫 How to reach me ... danielw270@gmail.com or via Discord @ Cheerslead#1518
 
